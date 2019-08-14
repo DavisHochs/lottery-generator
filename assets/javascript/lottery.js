@@ -9,6 +9,7 @@ function getRandomLottoNumbers() {
     }
 }
 
+<<<<<<< HEAD
 let numberActual =getRandomLottoNumbers();
 
 
@@ -28,3 +29,5 @@ $('#random-button').on('click',function getRandomLottoNumbers() {
 });
 
 
+=======
+>>>>>>> d56bf09bd267a29ef872480475b06f1acaf97fef
