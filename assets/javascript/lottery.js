@@ -8,6 +8,4 @@ function getRandomLottoNumbers() {
         console.log(randomLottoNumbers)
     }
 }
-getRandomLottoNumbers();
-console.log(randomLottoNumbers);
- 
+
